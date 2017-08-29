@@ -1,0 +1,7 @@
+*.pyc
+data
+.*
+*.swp
+run*
+__pycache__
+
